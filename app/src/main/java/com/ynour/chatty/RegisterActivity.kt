@@ -35,6 +35,7 @@ class RegisterActivity : AppCompatActivity() {
                     }
                     Toast.makeText(this, "Signed up successfully", Toast.LENGTH_SHORT).show()
                     startActivity(intent)
+                    finish()
                 }
                 else{
                     Toast.makeText(this, "Passwords didn't match", Toast.LENGTH_SHORT).show()
