@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Chatty</string>
+    <string name="password">Password</string>
+    <string name="e_mail">E-Mail</string>
+    <string name="username">Username</string>
+    <string name="sign_in">Sign in</string>
+    <string name="chatty">Chatty</string>
+    <string name="todo">TODO</string>
+    <string name="sign_in_with">Sign In With:</string>
+    <string name="or">-OR-</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="google">google</string>
+    <string name="facebook">facebook</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="create_my_account">Create my account</string>
+    <string name="agreement">By signing up, you agree to our Terms of Use and Privacy Policy.</string>
+    <string name="join_chatty">Join Chatty</string>
+    <string name="and_start_chatting_with_the_world">And start chatting with the world</string>
+</resources>
